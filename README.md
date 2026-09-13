@@ -22,7 +22,7 @@ In essence, he will loose his money either way.(Intensity will differ)
 Why vending machines are so honest and plain? Noone gets scammed by a vending machine(at least not transparently) and what's the thrill in that?
 
 ### The Solution (that nobody asked for)
-So, we introduce Stealing Machine. This is, in plain sight, your normal vending machine but, there is a catch. There is no price tag. You are free to guess the amount, whatever you think the product costs. Well, there comes an another catch, i have secretly already increased the price of it, so you will most probably, will loose your money in the first try. So here, you are compelled to pay more to get atleast something out of the machine. So by this machine, atleast the people understands they have been scammed, instead of masking behind a genuine face.
+So, we introduce Stealing Machine. This is, in plain sight, your normal vending machine but, there is a catch. There is no price tag. You are free to guess the amount, whatever you think the product costs. Well, there comes an another catch, i have secretly increased the price of it, so you will most probably, loose your money in the first try. So here, you are compelled to pay more to get something out of the machine. So by this machine, at least the people gets to know that they have been scammed, instead of masking behind a genuine face.
 
 ## Technical Details
 ### Technologies/Components Used
