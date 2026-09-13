@@ -79,20 +79,15 @@ The ESP32 exposes these HTTP endpoints:
 - 'GET /dispense?servo=1&direction=left' or 'right'  moves the selected servo for 700 ms and returns it to its neutral position.
 - 'OPTIONS /dispense' supports the browser's cross-origin request handling.
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots
+Given in the project demo file
 
 # Workflow
 Select item --> Enter guessed amount --> Pay the amount --> (checks if amount guessed was greater than the original price) 
+
 (no)
 --> nothing happens --> you lost your money
+
 (yes)
 --> signal send to ESP32 for the servo motor behind the selected item to be activated --> servo motor activates and the item is dropped
 
