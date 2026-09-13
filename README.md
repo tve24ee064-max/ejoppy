@@ -10,7 +10,7 @@
 
 
 ### Team Members
-- Team Lead: Ejo Abhilash - College of Engineering TVM
+- Member 1: Ejo Abhilash - College of Engineering TVM
 - Member 2: Devadathan J - College of Engineering TVM
 
 
