@@ -2,20 +2,21 @@
 
 
 
-# [Project Name] 🎯
+# Stealimg Machine 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Unemployed Innovators
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Ejo Abhilash - College of Engineering TVM
+- Member 2: Devadathan J - College of Engineering TVM
+
 
 ### Project Description
-[2-3 lines about what your project does]
+Basically our project is an unique wending machine which give the product only if you paid the price higher than the actual price. The key point is that the actual price of the project wont be shown in the menu of wending machine. So if a person wants to recieve a product, he must pay a higher price than he expected. if he pays less price, his money will go for nothing.
+In essence, he will loose his money either way.(Intensity will differ)
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
