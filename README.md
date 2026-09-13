@@ -2,7 +2,7 @@
 
 
 
-# Stealimg Machine 🎯
+# Stealing Machine 🎯
 
 
 ## Basic Details
